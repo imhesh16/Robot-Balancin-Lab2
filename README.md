@@ -1,3 +1,5 @@
+Integrantes: Emilio Valenzuela C, Alan Lobos R , Diego Tapia M y Benjamín Santander C
+
 # Robot-Balancin-Lab2
 Repositorio para el desarrollo y documentación del proyecto Robot Balanceador Lab 2.
 # Robot Balancín con Bluetooth y Seguimiento de Línea
